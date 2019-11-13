@@ -1,0 +1,9 @@
+x = 5
+
+def yes():
+    x = 10
+    print(x)
+    
+yes()
+
+print(x)
