@@ -1,0 +1,15 @@
+#this is a comment
+import random
+from random import randrange
+
+print("Hello \nWorld")
+
+x = 5
+def yes():
+    global x 
+    x = 10
+    print(x)
+    
+yes()
+
+print(x)
