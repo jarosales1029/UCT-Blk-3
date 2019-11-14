@@ -1,4 +1,5 @@
 #Indexing always begins at 0
+#Indexing is inclusive
 
 x = "Hello_World"
 
