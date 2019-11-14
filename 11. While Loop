@@ -1,5 +1,5 @@
 x = 0
-#begin loop statement
+#begin while loop statement until it's true
 while x <= 10:
     print(x)
     #increase x by 1
