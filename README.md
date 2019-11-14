@@ -19,7 +19,7 @@ https://repl.it/
 
 
 
-Escape Characters
+ESCAPE CHARACTERS
 
 \n = newline
 
@@ -36,3 +36,37 @@ Escape Characters
 
 \ = stop interpolation for next character
 
+
+ARITHMETIC OPERATORS
+
+Addition = +
+
+Subtraction = -
+
+Multiplication = *
+
+Division = /
+
+Modulus = %
+
+Exponent = **
+
+Floor Division = //
+
+OPERATORS
+
+Assignment = ex. x=y
+
+add and assign += ex. x+=y is (x = x + y)
+
+substract and assign -+ ex. x-=y is (x = x - y)
+
+multiply and assign *= ex. x*=y is (x = x * y)
+
+divide and assign is /= ex. x/=y is (x = x/y)
+
+modulus and assign %= ex. x%=y is (x = x % y)
+
+exponent and assign **= ex. **=y is (x = x ** y)
+
+floor division and assign //= ex. x//=y is (x = x//y)
