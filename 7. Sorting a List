@@ -1,0 +1,26 @@
+#creates list
+x = ['red', 'blue', 'green']
+print(x)
+
+#adds black into the list
+x.append("black")
+
+#sorts by abc order
+x.sort()
+print(x)
+
+#sorts in reverse order
+x.sort(reverse=True)
+print(x)
+
+#remove the 2nd indexed item on the list
+x.pop(1)
+print(x)
+
+#insert indexed as the 2nd item on the list
+x.insert(1,"green")
+print(x)
+
+#remove 'blue' from the list
+x.remove("blue")
+print(x)
