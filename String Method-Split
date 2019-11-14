@@ -1,4 +1,4 @@
-#Take a list and split it up
+#Take a string and split it up
 
 x = "Hello,World Hi Hi"
 
