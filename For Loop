@@ -1,0 +1,24 @@
+#create list of colors
+colors = ['red', 'blue','green']
+
+#adds black to the list
+colors.append('black')
+#for loop starts 
+#i is the variable
+for i in colors:
+    #print the steps on the list
+    print(i)
+
+print("end")
+
+#change colors list
+colors = "Hello"
+#i will now check the indexes in for loop
+for i in colors:
+    print(i)
+
+#while loop performing the same for loop for "Hello" list
+x = 0 
+while x<len(colors):
+    print(colors[x])
+    x += 1
