@@ -1,0 +1,12 @@
+#assign variables
+x = "Hello World"
+y = 5555
+
+#after adding x and converting y into a string, print
+print(x + str(y))
+
+#asking for an input that will be stored as an integer
+j = int(input("give me a number: "))
+r = int("5555")
+
+print(j + r)
