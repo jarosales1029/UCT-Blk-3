@@ -1,0 +1,16 @@
+#Replace items in a string
+
+x = "Hello,World Hi Hi"
+
+print(x.replace("i","!"))
+
+print(x.replace("Hello","!"))
+
+#Count how many i's in the string
+print(x.count("i"))
+
+#Display what can be called upon for x
+print(dir(x))
+
+#
+print(x.isupper())
