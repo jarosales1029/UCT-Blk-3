@@ -1,0 +1,8 @@
+x = 0
+#begin loop statement
+while x <= 10:
+    print(x)
+    #increase x by 1
+    x +=1
+#print end after the loop is complete
+print("end")
