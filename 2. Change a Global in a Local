@@ -1,12 +1,15 @@
-#this is a comment
+#this is a line comment
 import random
 from random import randrange
 
 print("Hello \nWorld")
 
+#global variable
 x = 5
 def yes():
+    #targeting a global within a local
     global x 
+    #assigning a local variable but affecting the global variable
     x = 10
     print(x)
     
