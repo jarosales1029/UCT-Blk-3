@@ -53,6 +53,7 @@ Exponent = **
 
 Floor Division = //
 
+
 OPERATORS
 
 Assignment = ex. x=y
@@ -70,3 +71,11 @@ Modulus and assign %= ex. x%=y is (x = x % y)
 Exponent and assign **= ex. **=y is (x = x ** y)
 
 Floor division and assign //= ex. x//=y is (x = x//y)
+
+
+BOOLEAN LOGIC OPERATORS
+
+T T - T
+T F - F
+F T - F
+F F - F
