@@ -1,0 +1,34 @@
+#user-defined functions
+x = 5
+
+#defining a function with a (parameter)
+def addOne(myInt):
+    y = myInt + 1
+    return y
+
+#what to add 1 to
+print(addOne(x))
+
+x = 5
+c = 6
+
+#the function for adding 2 integers
+def add(int0,int1):
+    y = int0 + int1
+#return stores the value of y to the add() function for later use
+    return y
+
+#x gets mapped to int0 and c to int1
+print(add(x,c))
+
+#z = the output of add(int0,int1) function
+z = add(x,c)
+print(z)
+
+#int1 will default to 1 when no input is mentioned
+def add(int0,int1=1):
+    r = int0 + int1
+    return r
+#x gets mapped to int0 and no input for int1 will default to 1
+j = add(x)
+print(j)
