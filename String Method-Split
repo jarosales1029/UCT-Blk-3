@@ -1,6 +1,0 @@
-#Take a string and split it up
-
-x = "Hello,World Hi Hi"
-
-print(x.split(","))
-print(x.split())
