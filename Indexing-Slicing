@@ -1,3 +1,5 @@
+#Indexing always begins at 0
+
 x = "Hello_World"
 
 print(x[0:5])
