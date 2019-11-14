@@ -1,0 +1,14 @@
+#ask for input and store as integer
+x = int(input("Guess a number.\n"))
+y = 10
+
+#define our own fuctions have to end with a colon
+#if function must be followed by an elif to end with an else
+if x==5:
+    print("x=5")
+#IF if is not true, continues to elif statement
+elif x==6:
+    print("x=6")
+#IF if and elif are not true, print x !=5
+else:
+    print("x !=5")
