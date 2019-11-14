@@ -1,5 +1,7 @@
 #Input Function
 x = "Hello, World Hi Hi"
 
+#y input will be stored as a string
 y = input("What is your name?\n")
+
 print("Hello " +y)
