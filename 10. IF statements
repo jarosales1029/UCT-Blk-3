@@ -12,3 +12,13 @@ elif x==6:
 #IF if and elif are not true, print x !=5
 else:
     print("x !=5")
+    
+j = 6
+r = "A"
+
+if r=="A":
+    print("TRUE")
+elif j==6:
+    print("!!!!!!!!!!!!!!!!")
+else:
+    print("error")
