@@ -76,6 +76,9 @@ Floor division and assign //= ex. x//=y is (x = x//y)
 BOOLEAN LOGIC OPERATORS
 
 T T - T
+
 T F - F
+
 F T - F
+
 F F - F
