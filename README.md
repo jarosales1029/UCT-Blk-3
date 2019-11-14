@@ -19,11 +19,19 @@ https://repl.it/
 
 
 Escape Characters
+
 \n = newline
+
 \t = tab
+
 \r = carriage return
+
 \e = escape
+
 \’ = single quote
+
+
 \” = double quote
+
 \ = stop interpolation for next character
 
