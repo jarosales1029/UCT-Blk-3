@@ -1,0 +1,19 @@
+#create a dictionary
+stu1 = { "First":"John", "Last":"Doe", "Blk1":98.5 }
+
+print(stu1)
+
+#print "First" from the dictionary
+print (stu1["First"])
+
+#change John to Jane
+stu1["First"] = "Jane"
+
+#print "First" from the dictionary
+print (stu1["First"])
+
+#print the dictionary keys
+print (stu1.keys())
+
+#print the dictionary values
+print (stu1.values())
