@@ -57,16 +57,16 @@ OPERATORS
 
 Assignment = ex. x=y
 
-add and assign += ex. x+=y is (x = x + y)
+Add and assign += ex. x+=y is (x = x + y)
 
-substract and assign -+ ex. x-=y is (x = x - y)
+Substract and assign -+ ex. x-=y is (x = x - y)
 
-multiply and assign *= ex. x*=y is (x = x * y)
+Multiply and assign *= ex. x*=y is (x = x * y)
 
-divide and assign is /= ex. x/=y is (x = x/y)
+Divide and assign is /= ex. x/=y is (x = x/y)
 
-modulus and assign %= ex. x%=y is (x = x % y)
+Modulus and assign %= ex. x%=y is (x = x % y)
 
-exponent and assign **= ex. **=y is (x = x ** y)
+Exponent and assign **= ex. **=y is (x = x ** y)
 
-floor division and assign //= ex. x//=y is (x = x//y)
+Floor division and assign //= ex. x//=y is (x = x//y)
