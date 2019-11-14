@@ -1,9 +1,13 @@
+#assign a global variable
 x = 5
 
+#define a function
 def yes():
     x = 10
     print(x)
     
+#call the function
 yes()
 
+#print the variable
 print(x)
