@@ -11,8 +11,11 @@ def yes():
     global x 
     #assigning a local variable but affecting the global variable
     x = 10
+    #print the local variable
     print(x)
-    
+
+#call the function
 yes()
 
+#print the global variable
 print(x)
