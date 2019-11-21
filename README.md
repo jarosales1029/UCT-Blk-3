@@ -3,7 +3,9 @@ Python UCT Blk 3
 
 Tools and Resources: 
 
-onlinegdb.com
+https://www.onlinegdb.com/
+
+https://www.jdoodle.com/python3-programming-online/
 
 https://codeacademy.com
 
