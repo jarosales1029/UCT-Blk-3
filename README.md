@@ -12,11 +12,9 @@
 - https://w3schools.com/python
 - https://repl.it/
 
-
-
 1. ESCAPE CHARACTERS
 
-- [ ]\n = newline
+- \n = newline
 - \t = tab
 - \r = carriage return
 - \e = escape
@@ -24,44 +22,28 @@
 - \” = double quote
 - \ = stop interpolation for next character
 
-
 2. ARITHMETIC OPERATORS
 
-Addition = +
+- Addition = +
+- Subtraction = -
+- Multiplication = *
+- Division = /
+- Modulus = %
+- Exponent = **
+- Floor Division = //
 
-Subtraction = -
+3. OPERATORS
 
-Multiplication = *
+- Assignment = ex. x=y
+- Add and assign += ex. x+=y is (x = x + y)
+- Substract and assign -+ ex. x-=y is (x = x - y)
+- Multiply and assign *= ex. x*=y is (x = x * y)
+- Divide and assign is /= ex. x/=y is (x = x/y)
+- Modulus and assign %= ex. x%=y is (x = x % y)
+- Exponent and assign **= ex. **=y is (x = x ** y)
+- Floor division and assign //= ex. x//=y is (x = x//y)
 
-Division = /
-
-Modulus = %
-
-Exponent = **
-
-Floor Division = //
-
-
-OPERATORS
-
-Assignment = ex. x=y
-
-Add and assign += ex. x+=y is (x = x + y)
-
-Substract and assign -+ ex. x-=y is (x = x - y)
-
-Multiply and assign *= ex. x*=y is (x = x * y)
-
-Divide and assign is /= ex. x/=y is (x = x/y)
-
-Modulus and assign %= ex. x%=y is (x = x % y)
-
-Exponent and assign **= ex. **=y is (x = x ** y)
-
-Floor division and assign //= ex. x//=y is (x = x//y)
-
-
-BOOLEAN LOGIC OPERATORS
+4. BOOLEAN LOGIC OPERATORS
 
 and 
 
