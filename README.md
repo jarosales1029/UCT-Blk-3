@@ -1,11 +1,10 @@
-# UCT-Blk-3
-Python UCT Blk 3
+# UCT-Blk-3 Python
 
-Tools and Resources: 
+# Tools and Resources: 
 
-https://ctep.csr.disa.mil/
+- [] https://ctep.csr.disa.mil/
 
-https://www.onlinegdb.com/
+- [] https://www.onlinegdb.com/
 
 https://www.jdoodle.com/python3-programming-online/
 
