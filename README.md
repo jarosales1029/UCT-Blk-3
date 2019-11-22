@@ -14,25 +14,18 @@
 
 
 
-ESCAPE CHARACTERS
+1. ESCAPE CHARACTERS
 
-\n = newline
-
-\t = tab
-
-\r = carriage return
-
-\e = escape
-
-\’ = single quote
+- [ ]\n = newline
+- \t = tab
+- \r = carriage return
+- \e = escape
+- \’ = single quote
+- \” = double quote
+- \ = stop interpolation for next character
 
 
-\” = double quote
-
-\ = stop interpolation for next character
-
-
-ARITHMETIC OPERATORS
+2. ARITHMETIC OPERATORS
 
 Addition = +
 
