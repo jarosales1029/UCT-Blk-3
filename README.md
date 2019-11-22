@@ -3,6 +3,8 @@ Python UCT Blk 3
 
 Tools and Resources: 
 
+https://ctep.csr.disa.mil/
+
 https://www.onlinegdb.com/
 
 https://www.jdoodle.com/python3-programming-online/
