@@ -14,57 +14,48 @@
 
 1. ESCAPE CHARACTERS
 
-[ ] \n = newline
-\t = tab
-- \r = carriage return
-- \e = escape
-- \’ = single quote
-- \” = double quote
-- \ = stop interpolation for next character
+- [ ] \n = newline
+- [ ] \t = tab
+- [ ] \r = carriage return
+- [ ] \e = escape
+- [ ] \’ = single quote
+- [ ] \” = double quote
+- [ ] \ = stop interpolation for next character
 
 2. ARITHMETIC OPERATORS
 
-- Addition = +
-- Subtraction = -
-- Multiplication = *
-- Division = /
-- Modulus = %
-- Exponent = **
-- Floor Division = //
+- [ ] Addition = +
+- [ ] Subtraction = -
+- [ ] Multiplication = *
+- [ ] Division = /
+- [ ] Modulus = %
+- [ ] Exponent = **
+- [ ] Floor Division = //
 
 3. OPERATORS
 
-- Assignment = ex. x=y
-- Add and assign += ex. x+=y is (x = x + y)
-- Substract and assign -+ ex. x-=y is (x = x - y)
-- Multiply and assign *= ex. x*=y is (x = x * y)
-- Divide and assign is /= ex. x/=y is (x = x/y)
-- Modulus and assign %= ex. x%=y is (x = x % y)
-- Exponent and assign **= ex. **=y is (x = x ** y)
-- Floor division and assign //= ex. x//=y is (x = x//y)
+- [ ] Assignment = ex. x=y
+- [ ] Add and assign += ex. x+=y is (x = x + y)
+- [ ] Substract and assign -+ ex. x-=y is (x = x - y)
+- [ ] Multiply and assign *= ex. x*=y is (x = x * y)
+- [ ] Divide and assign is /= ex. x/=y is (x = x/y)
+- [ ] Modulus and assign %= ex. x%=y is (x = x % y)
+- [ ] Exponent and assign **= ex. **=y is (x = x ** y)
+- [ ] Floor division and assign //= ex. x//=y is (x = x//y)
 
 4. BOOLEAN LOGIC OPERATORS
 
-and 
+- [ ] and 
+  - T T - T
+  - T F - F
+  - F T - F
+  - F F - F
 
-T T - T
+- [ ] or
+  - T T - T
+  - T F - T
+  - F T - T
+  - F F - F
 
-T F - F
-
-F T - F
-
-F F - F
-
-or
-
-T T - T
-
-T F - T
-
-F T - T
-
-F F - F
-
-not
-
-negates a boolean
+- [ ] not
+  - negates a boolean
