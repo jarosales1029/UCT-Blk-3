@@ -2,22 +2,15 @@
 
 # Tools and Resources: 
 
-- [] https://ctep.csr.disa.mil/
-- [] https://www.onlinegdb.com/
-
+- https://ctep.csr.disa.mil/
+- https://www.onlinegdb.com/
 - https://www.jdoodle.com/python3-programming-online/
-
-https://codeacademy.com
-
-https://checkio.org
-
-https://codewars.com
-
-https://codingbat.com
-
-https://w3schools.com/python
-
-https://repl.it/
+- https://codeacademy.com
+- https://checkio.org
+- https://codewars.com
+- https://codingbat.com
+- https://w3schools.com/python
+- https://repl.it/
 
 
 
