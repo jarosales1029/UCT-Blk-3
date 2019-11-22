@@ -14,8 +14,8 @@
 
 1. ESCAPE CHARACTERS
 
-- \n = newline
-- \t = tab
+\n = newline
+\t = tab
 - \r = carriage return
 - \e = escape
 - \’ = single quote
