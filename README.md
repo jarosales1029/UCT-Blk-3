@@ -14,7 +14,7 @@
 
 1. ESCAPE CHARACTERS
 
-\n = newline
+[ ] \n = newline
 \t = tab
 - \r = carriage return
 - \e = escape
