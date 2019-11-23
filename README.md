@@ -64,4 +64,15 @@
 
 - [ ] 1. [Global vs Local](https://github.com/jarosales1029/UCT-Blk-3/blob/master/1.%20Global%20vs%20Local)
 - [ ] 2. [Change a Global in a Local](https://github.com/jarosales1029/UCT-Blk-3/blob/master/2.%20Change%20a%20Global%20in%20a%20Local)
-
+- [ ] 3. [Indexing-Slicing](https://github.com/jarosales1029/UCT-Blk-3/blob/master/3.%20Indexing-Slicing)
+- [ ] 4. [String Methods](https://github.com/jarosales1029/UCT-Blk-3/blob/master/4.%20String%20Methods)
+- [ ] 5. [Input Function](https://github.com/jarosales1029/UCT-Blk-3/blob/master/5.%20Input%20Function)
+- [ ] 6. [User-defined Functions](https://github.com/jarosales1029/UCT-Blk-3/blob/master/6.%20User-defined%20Functions)
+- [ ] 7. [Sorting a List](https://github.com/jarosales1029/UCT-Blk-3/blob/master/7.%20Sorting%20a%20List)
+- [ ] 8. [
+- [ ] 9.
+- [ ] 10.
+- [ ] 11.
+- [ ] 12.
+- [ ] 13.
+- [ ] 14.
