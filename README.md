@@ -59,3 +59,9 @@
 
 - [ ] not
   - negates a boolean
+
+>Notes
+
+- [ ] Global vs Local: https://github.com/jarosales1029/UCT-Blk-3/blob/master/1.%20Global%20vs%20Local
+- [ ] Change a Global in a Local: https://github.com/jarosales1029/UCT-Blk-3/blob/master/2.%20Change%20a%20Global%20in%20a%20Local
+
