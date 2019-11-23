@@ -11,11 +11,11 @@
 - [ ] 7. [Sorting a List](https://github.com/jarosales1029/UCT-Blk-3/blob/master/7.%20Sorting%20a%20List)
 - [ ] 8. [Dictionaries](https://github.com/jarosales1029/UCT-Blk-3/blob/master/8.%20Dictionaries)
 - [ ] 9. [Converting Strings and Integers](https://github.com/jarosales1029/UCT-Blk-3/blob/master/9.%20Converting%20Strings%20and%20Integers)
-- [ ] 10.
-- [ ] 11.
-- [ ] 12.
-- [ ] 13.
-- [ ] 14.
+- [ ] 10. [If Statements](https://github.com/jarosales1029/UCT-Blk-3/blob/master/10.%20IF%20statements)
+- [ ] 11. [While Loop](https://github.com/jarosales1029/UCT-Blk-3/blob/master/11.%20While%20Loop)
+- [ ] 12. [For Loop](https://github.com/jarosales1029/UCT-Blk-3/blob/master/12.%20For%20Loop)
+- [ ] 13. [Range For Loop](https://github.com/jarosales1029/UCT-Blk-3/blob/master/13.%20Range%20For%20Loop)
+- [ ] 14. [Length](https://github.com/jarosales1029/UCT-Blk-3/blob/master/14.%20Length)
 
 >Tools and Resources: 
 
